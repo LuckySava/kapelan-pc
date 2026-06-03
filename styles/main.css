@@ -83,17 +83,17 @@ body {
   max-width: 1240px;
   width: 100%;
   margin: 0 auto;
-  opacity: 0;
+  /* opacity: 0; */
 }
 
 .device-frame {
   position: relative;
   background: #435433;
-  border-radius: 36px;
-  box-shadow: inset 0 0 0 5px #babdbf, inset 0 0 1px 8px #e2e3e4;
+  /* border-radius: 36px; */
+  /* box-shadow: inset 0 0 0 5px #babdbf, inset 0 0 1px 8px #e2e3e4; */
   /* height: 778px; */
   padding: 27px;
-  max-width: 600px;
+  max-width: 1240px;
   margin: 0 auto;
   text-align: center;
 }

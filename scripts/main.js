@@ -1305,13 +1305,13 @@ document.addEventListener("DOMContentLoaded", () => {
   //   ".password-window error-message"
   // );
 
-  passworInputdWindow.addEventListener("input", function (e) {
-    if (this.value === "ngu") {
-      passwordWindow.remove();
-      body.style.overflow = "unset";
-      demoContainer.style.opacity = 1;
-    }
-  });
+  // passworInputdWindow.addEventListener("input", function (e) {
+  //   if (this.value === "ngu") {
+  //     passwordWindow.remove();
+  //     body.style.overflow = "unset";
+  //     demoContainer.style.opacity = 1;
+  //   }
+  // });
 
   // END PASSWORD WINDOW
 
