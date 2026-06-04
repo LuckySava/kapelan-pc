@@ -70,6 +70,13 @@ const DATA = [
         plotTitle: "Греко-католицький церковний календар",
         plotBody: "",
       },
+            {
+        plotId: 4,
+        externalLink: true,
+        url: "https://islam.ua/ru/biblioteka/musulmanskij-kalendar",
+        plotTitle: "Мусульманський календар",
+        plotBody: "",
+      },
       // {
       //   plotId: 4,
       //   externalLink: true,
@@ -1287,6 +1294,13 @@ const DATA = [
         externalLink: true,
         url: "https://www.kapelanstvo.ugcc.ua/",
         plotTitle: "Департамент Військового Капеланства Патріаршої курії УГКЦ",
+        plotBody: "",
+      },
+            {
+        plotId: 6,
+        externalLink: true,
+        url: "https://islam.ua/uk/",
+        plotTitle: "Іслам в Україні",
         plotBody: "",
       },
     ],
