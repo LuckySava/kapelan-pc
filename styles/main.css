@@ -127,6 +127,15 @@ h3 {
 .main-title {
   margin-top: 10px;
   margin-bottom: 5px;
+  position: relative;
+}
+
+.main-logo{
+  display: inline-block;
+  margin: 0 auto;
+  max-width: 180px;
+  width: 100%;
+  padding: 10px;
 }
 
 .logo {
@@ -284,6 +293,11 @@ sub {
   font-size: 20px;
   font-weight: 600;
   padding-right: 35px;
+  transition: .3s;
+}
+
+.list-titlelink:hover {
+  opacity: .7;
 }
 
 .link-symbol {
